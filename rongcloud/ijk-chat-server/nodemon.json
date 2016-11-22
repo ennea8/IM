@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ignore": ["app/assets", "public/assets/"],
+   "execMap": {
+      "js": "babel-node"
+    }
+}
+
